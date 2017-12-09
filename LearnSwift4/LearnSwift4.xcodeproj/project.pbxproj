@@ -97,11 +97,9 @@
 		8D5FDE241FDA0E22005C8C84 /* LearnSwift4 */ = {
 			isa = PBXGroup;
 			children = (
-				8D5FDE251FDA0E22005C8C84 /* AppDelegate.swift */,
+				8DE97C9E1FDBC7F100638A42 /* Supporting Files */,
 				8D5FDE271FDA0E22005C8C84 /* ViewController.swift */,
 				8D5FDE291FDA0E22005C8C84 /* Main.storyboard */,
-				8D5FDE2C1FDA0E22005C8C84 /* Assets.xcassets */,
-				8D5FDE2E1FDA0E22005C8C84 /* LaunchScreen.storyboard */,
 				8D5FDE311FDA0E22005C8C84 /* Info.plist */,
 			);
 			path = LearnSwift4;
@@ -123,6 +121,16 @@
 				8D5FDE471FDA0E22005C8C84 /* Info.plist */,
 			);
 			path = LearnSwift4UITests;
+			sourceTree = "<group>";
+		};
+		8DE97C9E1FDBC7F100638A42 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8D5FDE251FDA0E22005C8C84 /* AppDelegate.swift */,
+				8D5FDE2C1FDA0E22005C8C84 /* Assets.xcassets */,
+				8D5FDE2E1FDA0E22005C8C84 /* LaunchScreen.storyboard */,
+			);
+			path = "Supporting Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
