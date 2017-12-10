@@ -54,6 +54,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="headerLabel" destination="azB-wG-c4P" id="f7f-u1-Gwr"/>
                         <outlet property="tableView" destination="Gnc-0q-r1C" id="UXt-IQ-gYr"/>
                     </connections>
                 </viewController>
